@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**tjena007/tjena007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **tjena007/tjena007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on Website Redesign Project using .NET full stack.
 - 🌱 I’m currently learning MERN stack
