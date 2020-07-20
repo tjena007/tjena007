@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Website Redesign Project using .NET full stack.
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Javascript Projects,Front end Projects.
-- 🤔 I’m looking for help with Express.js
+- 🤔 I’m looking for help with Node.js
 - 📫 How to reach me: Hit me up on [Instagram](https://www.instagram.com/tjena007/) | [Linkedin](https://www.linkedin.com/in/tanmayjena/)
 
 <!-- 👨🏼‍💻 building [murphee][murphee]  
