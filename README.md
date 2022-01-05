@@ -4,8 +4,8 @@
 
 <!-- **tjena007/tjena007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on Website Redesign Project using .NET full stack.
-- 🌱 I’m currently learning MERN stack
+- 🔭 I’m a master's student in computer science at Arizona State University, Tempe.
+- 🌱 I’m currently improving my MERN stack knowledge.
 - 👯 I’m looking to collaborate on Javascript Projects,Front end Projects.
 - 🤔 I’m looking for help with Node.js
 - 📫 How to reach me: Hit me up on [Instagram](https://www.instagram.com/tjena007/) | [Linkedin](https://www.linkedin.com/in/tanmayjena/)
